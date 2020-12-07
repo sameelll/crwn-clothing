@@ -1,6 +1,6 @@
-## Lesson-3
+## Lesson-6
 
-Going through our folder structure for the project, breaking out homepage component into smaller components
+Create collection-preview and collection-item components for the shop page
 
 # How to fork and clone
 
